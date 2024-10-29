@@ -2,16 +2,16 @@
   "basics": {
     "name": "Yash Chaturvedi",
     "label": "Computer Science Graduate Student",
-    "email": "",
-    "phone": "",
-    "url": "",
+    "email": "yash.c@gatech.edu",
+    "phone": "+1 (470) 884 2447",
+    "url": "https://y-chaturvedi.github.io/",
     "summary": "Computer Science graduate student with experience in software development and research",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Atlanta",
+      "countryCode": "US",
+      "region": "Georgia"
     },
     "profiles": []
   },
