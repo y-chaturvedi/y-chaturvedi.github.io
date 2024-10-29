@@ -95,35 +95,12 @@
     {
       "name": "Proficiency",
       "level": "",
-      "keywords": [
-        "Java",
-        "C++",
-        "Python",
-        "JavaScript",
-        "MySQL",
-        "C",
-        "React.js",
-        "Node.js",
-        "HTML",
-        "CSS",
-        "Spring Boot"
-      ]
+      "keywords": ["Java", "C++", "Python", "JavaScript", "MySQL", "C", "React.js", "Node.js", "HTML", "CSS", "Spring Boot"]
     },
     {
       "name": "Exposure",
       "level": "",
-      "keywords": [
-        "Rust",
-        "GraphQL",
-        "TypeScript",
-        "Solidity",
-        "C#",
-        "Docker",
-        "Kubernetes",
-        "Jenkins CI/CD",
-        "Next.js",
-        "HQL"
-      ]
+      "keywords": ["Rust", "GraphQL", "TypeScript", "Solidity", "C#", "Docker", "Kubernetes", "Jenkins CI/CD", "Next.js", "HQL"]
     }
   ],
   "languages": [],
