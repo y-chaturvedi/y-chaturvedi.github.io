@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: false
 
 profile:
   align: right
@@ -19,4 +19,4 @@ Hello there! I'm a researcher at Georgia Tech's School of Cybersecurity and Priv
 
 My areas of interest include: programming language security, LLM vulnerabilities, blockchain networks, cryptography and number theory.
 
-Before I joined Georgia Tech, I was a software engineer at Adobe India, working primarily on the Adobe Sign product. You can read more about my experience and skills
+Before I joined Georgia Tech, I was a software engineer at Adobe India, working primarily on the Adobe Sign product. You can read more about my experience and skills in the <a href='cv'>CV</a> section.
