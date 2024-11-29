@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Georgia Institute of Technology
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
