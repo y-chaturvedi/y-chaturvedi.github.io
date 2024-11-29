@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
+subtitle: [Georgia Institute of Technology](https://www.gatech.edu/)
 
 profile:
   align: right
