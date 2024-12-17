@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <i class="fa fa-envelope" aria-hidden="true"></i> <p><a href="mailto:yash10chaturvedi@gmail.com">yash10chaturvedi@gmail.com</a></p>
+    <p><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:yash10chaturvedi@gmail.com">yash10chaturvedi@gmail.com</a></p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
