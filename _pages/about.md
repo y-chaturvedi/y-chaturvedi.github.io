@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<b>I am looking for software engineering, research and/or cryptography related full-time positions starting May 2025.</b>
+<mark><b>I am looking for software engineering, research and/or cryptography related full-time positions starting May 2025.</b></mark>
 
 Hello there! I'm a second-year MS CS student at Georgia Tech specializing in Computing Systems.
 

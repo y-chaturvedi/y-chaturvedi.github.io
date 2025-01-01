@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-I have served as both an undergraduate and graduate teaching assistant.
-
 As a graduate student at Georgia Tech, I served as a TA for:
 
 - CS 3001: Computing, Society and Professionalism - Spring 2024, Summer 2024, Fall 2024 (Head TA)
