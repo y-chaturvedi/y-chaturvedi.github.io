@@ -8,7 +8,7 @@ dcv_pdf: yash_debate.pdf
 description: Parliamentary Debating Experience
 ---
 
-Parliamentary debating has been a highly rewarding time investment of mine. I tried out the activity for the first time at the age of 16 at the NLS Debate Junior 2015, organized by the National Law School of India University, India's premier law school. Our team's unexpected win in that tournament catapulted me on an unforgettable journey. 
+Parliamentary debating has been a highly rewarding time investment of mine. I tried out the activity for the first time at the age of 16 at the NLS Debate Junior 2015, organized by the National Law School of India University, India's premier law school. Our team's unexpected win in that tournament catapulted me on an unforgettable journey.
 
 I went on to represent BITS Goa at close to 100 debate tournaments, including the World Universities Debating Championship in 2021. I broke (or made it to the knockout rounds) as a speaker at the Asian British Parliamentary Debating Championship (ABP) in 2021 and the Australasian Intervarsity Debating Championship (Australs) in 2020. As a judge, I broke at ABP 2023, the European Universities Debating Championship (EUDC) in 2021, the HWS Round Robin in 2021 and the United Asians Debating Championship (UADC) in 2020. I was also invited as a Chief Adjudicator at more than 10 international tournaments. I capped off my debate career where it began - serving as a Chief Adjudicator at the NLS Debate in 2023.
 
