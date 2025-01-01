@@ -7,3 +7,7 @@
 
 "Vision":
   color: "#009f36"
+
+"SSRN":
+  url: https://www.ssrn.com/index.cfm/en/
+  color: "#00369f"
