@@ -19,7 +19,6 @@
     {
       "name": "Adobe India",
       "position": "Member of Technical Staff II",
-      "url": "",
       "startDate": "2023-02-01",
       "endDate": "2023-07-01",
       "summary": "",
@@ -31,7 +30,6 @@
     {
       "name": "Adobe India",
       "position": "Member of Technical Staff I",
-      "url": "",
       "startDate": "2021-07-01",
       "endDate": "2023-01-01",
       "summary": "",
@@ -43,7 +41,6 @@
     {
       "name": "Walmart Global Tech India",
       "position": "Software Engineering Intern",
-      "url": "",
       "startDate": "2021-01-01",
       "endDate": "2021-06-01",
       "summary": "",
@@ -54,7 +51,6 @@
     {
       "name": "Adobe India",
       "position": "Software Engineering Intern",
-      "url": "",
       "startDate": "2020-05-01",
       "endDate": "2020-07-01",
       "summary": "",
@@ -68,7 +64,6 @@
     {
       "institution": "Georgia Institute of Technology",
       "location": "Atlanta, Georgia, USA",
-      "url": "",
       "area": "Computer Science",
       "studyType": "Master of Science",
       "startDate": "2023-08-01",
@@ -79,7 +74,6 @@
     {
       "institution": "Birla Institute of Technology and Science - Pilani",
       "location": "Goa, India",
-      "url": "",
       "area": "Computer Science Engineering",
       "studyType": "Bachelor of Engineering (Hons)",
       "startDate": "2017-08-01",
@@ -108,20 +102,18 @@
   "references": [],
   "projects": [
     {
-      "name": "C to Memory-Safe Rust Conversion",
-      "summary": "Compared static analysis and machine learning-based approaches to convert unsafe C code into memory-safe Rust. Currently developing a combined approach to convert 1000+ Linux device driver files from C into Rust",
-      "highlights": [],
-      "startDate": "2024-01-01",
-      "endDate": "",
-      "url": ""
-    },
-    {
       "name": "Evaluating Vulnerabililty Injection in LLMs",
       "summary": "Analysis of points of vulnerability in the use of LLMs for code generation and prospective attacks, such as browser event capture, clipboard overrides and chat session hijacks",
       "highlights": [],
       "startDate": "2024-08-01",
-      "endDate": "",
-      "url": ""
+      "endDate": ""
+    },
+    {
+      "name": "C to Memory-Safe Rust Conversion",
+      "summary": "Compared static analysis and machine learning-based approaches to convert unsafe C code into memory-safe Rust. Currently developing a combined approach to convert 1000+ Linux device driver files from C into Rust",
+      "highlights": [],
+      "startDate": "2024-01-01",
+      "endDate": ""
     },
     {
       "name": "Blockchain Based Raspberry Pi Mesh Network",
@@ -129,7 +121,7 @@
       "highlights": [],
       "startDate": "2020-01-01",
       "endDate": "2020-05-01",
-      "url": ""
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3800557"
     }
   ]
 }
