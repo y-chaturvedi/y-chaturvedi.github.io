@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 Hello there! I'm a second-year MS CS student at Georgia Tech specializing in Computing Systems.
 
-I am currently a researcher at Georgia Tech's School of Cybersecurity and Privacy in the CSAFA lab under <a href="https://research.gatech.edu/people/j-sukarno-mertoguno">Dr. Sukarno Mertoguno</a>. Before I joined Georgia Tech, I was a full-stack software engineer at Adobe India for two years, working primarily on the Adobe Sign product.
+I am currently a researcher at Georgia Tech's School of Cybersecurity and Privacy in the <a href="https://sites.gatech.edu/csafa/">CSAFA</a> lab under <a href="https://sites.gatech.edu/karno/">Dr. Sukarno Mertoguno</a>. Before I joined Georgia Tech, I was a full-stack software engineer at Adobe India for two years, working primarily on the Adobe Sign product.
 
-My current research centers around the following areas:
+My current research is in the following areas:
 
 - Identifying vulnerabilities in the way LLMs are used to generate code. Keywords: LLM, SQL, cryptography, PowerShell, code generation
 - Improving the memory and type safety of C to Rust code conversion. Keywords: C, Rust, BASH, C2Rust, compilers
