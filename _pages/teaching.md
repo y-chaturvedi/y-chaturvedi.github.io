@@ -9,7 +9,7 @@ nav_order: 2
 
 As a graduate student at Georgia Tech, I served as a TA for:
 
-- CS 3001: Computing, Society and Professionalism - Spring 2024, Summer 2024, Fall 2024 (Head TA)
+- CS 3001: Computing, Society and Professionalism - Spring 2024, Summer 2024, Fall 2024 (Head TA), Spring 2025 (Head TA)
   - Led ethics and computing centered discussions with batches of ~10 students
   - Graded assignments
   - Filled in to give lectures to ~300 students
